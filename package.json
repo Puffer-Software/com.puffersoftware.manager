@@ -8,7 +8,7 @@
   "dependencies" : {},
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Puffer-Software/com.puffersoftware.extensions.git"
+    "url" : "https://github.com/Puffer-Software/com.puffersoftware.manager.git"
   }
 
 }
